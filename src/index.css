@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "font-navbar";
+    src: url("./utils//font/SF-Pro-Display-Bold.otf");
+}
+
+@font-face {
+    font-family: "font-perso";
+    src: url("./utils//font/Roboto-Bold.ttf");
+}
+
+@font-face {
+    font-family: "font-perso1";
+    src: url("./utils//font/Uni Sans Heavy.otf");
+}
+
+@font-face {
+    font-family: "font-perso2";
+    src: url("./utils//font/Uni Sans Thin.otf");
+}
+
+
+body {
+    background-color: rgb(37, 35, 35);
+}
+

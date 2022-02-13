@@ -1,0 +1,117 @@
+
+.changecolor-pos {
+    position: absolute;
+}
+
+.position-color2 {
+    position: absolute;
+    top: 67vh;
+    left: 55vh;
+}
+
+.position-color3 {
+    position: absolute;
+    top: 78vh;
+    left: 55vh;
+}
+
+.input-color {
+    position: absolute;
+    appearance: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    height: 6vh;
+    left: 8vh;
+    top: -1vh;
+    width: 8vh;
+}
+
+.input-color::-webkit-color-swatch {
+    border-radius: 3px;
+    border: none;
+}
+
+.input-color::-moz-color-swatch {
+    border-radius: 3px;
+    border: none;
+}
+
+/////////////////////
+.input-color2 {
+    background-color: #5472ae;
+    position: absolute;
+    left: -0.2vh;
+    top: 0vh;
+    cursor: pointer;
+    border-radius: 3px;
+    height: 4.5vh;
+    width: 7.3vh;
+}
+
+.input-text {
+    position: absolute;
+    white-space: nowrap;
+    font-size: 0.9vh;
+    color: rgb(192, 192, 192);
+    top: 4vh;
+    left: 1.2vh;
+    font-family: "font-perso1"; 
+}
+
+.button-text {
+    position: absolute;
+    white-space: nowrap;
+    font-size: 0.9vh;
+    color: rgb(192, 192, 192);
+    top: 4vh;
+    left: 9.5vh;
+    font-family: "font-perso1"; 
+}
+
+.button-color {
+    position: absolute;
+}
+
+.pos-text-user1 {
+    position: absolute;
+    color: rgb(150, 148, 148);
+    font-size: 1.4vh;
+    white-space: nowrap;
+    left: -0.3vh;
+    top: -4.5vh;
+    font-family: "font-perso1"; 
+}
+
+
+// @for $i from 1 through + 2 {
+//     .type-logo[type=#{$i}] {
+//         @if $i == 1 {
+//             position: absolute;
+//             top: 1.2vh;
+//             left: 11.2vh;
+//             width: 2vh;
+//         } @else if $i == 2 {
+//             position: absolute;
+//             top: 1.5vh;
+//           }
+//     }
+// }
+
+.type-logo {
+    position: absolute;
+    top: 1.2vh;
+    left: 11.2vh;
+    width: 2vh;
+}
+
+.type-logo2 {
+    position: absolute;
+    top: 1.2vh;
+    left: 2.5vh;
+    width: 2vh;
+}
+
+

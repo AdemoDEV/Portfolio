@@ -1,0 +1,77 @@
+
+.parcoure-interface {
+    color: white;
+    font-family: "font-perso1";
+    margin: -5vh;
+    display: inline-block;
+    width: 35vh;
+    margin-right: 62vh;
+    font-size: 1.2vh;
+    margin-top: 4vh;
+    height: 4.5vh;
+    // border: 1px solid rgb(87, 87, 87);
+    border-radius: 8px;
+}
+
+.parcoure-interface:hover {
+    opacity: 60%;
+    margin-left: -99vh;
+    background-color: rgb(56, 56, 56);
+}
+
+
+.parcoure-redirected {
+    position: absolute;
+    left: 41vh;
+    margin-top: 1.3vh;
+    width: 1.5vh;  
+}
+
+.parcoure-redirected:hover {
+    opacity: 50%;
+}
+
+
+
+
+.parcoure-text {
+    position: absolute;
+    left: 14vh;
+    margin-top: 1.2vh;
+}
+
+.parcoure-etat {
+    position: absolute;
+    left: 35vh;
+    font-size: 1.3vh;
+    margin-top: 1.2vh;
+    color: rgb(24, 60, 126);
+}
+
+.parcoure-principal{
+    display: flex;
+    margin-left: 20vh;
+    margin-top: 2vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.parcoure-etat-style {
+    position: absolute;
+    margin-top: 1.2vh;
+    left: 39vh;
+    display:inline
+}
+
+.parcoure-dsc{
+    position: absolute;
+    left: 24vh;
+    color: rgb(102, 102, 102);
+}
+
+.parcoure-img {
+    position: absolute;
+    width: 1.8vh;
+    left: 11vh;
+    margin-top: 1.2vh;
+}

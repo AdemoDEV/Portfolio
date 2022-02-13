@@ -1,0 +1,176 @@
+
+.position-imperial {
+    position: absolute;
+    width: 50vh;
+    height: 5.5vh;
+    top: 59.2vh;
+    left: 11vh;
+}
+
+// .hover- {
+//     position: absolute;
+//     width: 45vh;
+//     height: 5.5vh;
+//     top: 59.1vh;
+//     left: 11vh;
+//     border-radius: 10px;
+//     background-color: #1a1818;
+// }
+
+.position-postion {
+    position: absolute;
+    top: -20.26vh;
+    left: -7.5vh;
+}
+
+.project-verife {
+    position: absolute;
+    width: 1.8vh;
+    top: 22.2vh;
+    left: 22.2vh;
+}
+
+.project-user {
+    position: absolute;
+    white-space:nowrap;
+    top: 19.8vh;
+    left: 10vh;
+    font-family: "font-navbar";
+    font-size: 2vh;
+    color: #ffffff;
+}
+
+.project-user-dsc {
+    position: absolute;
+    white-space:nowrap;
+    top: 19.8vh;
+    left: 30vh;
+    font-family: "font-navbar";
+    font-size: 2vh;
+    color: #979696;
+}
+
+
+
+.position-imperial2 {
+    position: absolute;
+    width: 50vh;
+    height: 5.5vh;
+    top: 65vh;
+    left: 11vh;
+}
+
+.position-imperial3 {
+    position: absolute;
+    width: 50vh;
+    height: 5.5vh;
+    top: 70.8vh;
+    left: 11vh;
+}
+
+.position-imperial4 {
+    position: absolute;
+    width: 50vh;
+    height: 5.5vh;
+    top: 76.6vh;
+    left: 11vh;
+}
+
+
+
+.position-imperial5 {
+    position: absolute;
+    width: 50vh;
+    height: 5.5vh;
+    top: 82.4vh;
+    left: 11vh;
+}
+
+
+.position-imperial6 {
+    position: absolute;
+    width: 50vh;
+    height: 5.5vh;
+    top: 88.2vh;
+    left: 11vh;
+}
+
+@for $i from 1 through + 6 {
+    .hover-pos#{$i} {
+        @if $i == 1 {
+            position: absolute;
+            top: -1vh;
+          } @else if $i == 2 {
+            position: absolute;
+            top: -0.5vh;
+          } @else if $i == 3 {
+            position: absolute;
+            top: 0vh;
+          } @else if $i == 4 {
+            position: absolute;
+            top: 0.5vh;
+          } @else if $i == 5 {
+            position: absolute;
+            top: 1vh;
+          } @else if $i == 6 {
+            position: absolute;
+            top: 1.5vh;
+          }
+    }
+
+    .hover-#{$i} {
+        @if $i == 1 {
+            position: absolute;
+            width: 45vh;
+            height: 5.5vh;
+            top: 59.1vh;
+            left: 11vh;
+            border-radius: 10px;
+            background-color: #1a1818;
+          } @else if $i == 2 {
+            position: absolute;
+            width: 45vh;
+            height: 5.5vh;
+            top: 64.9vh;
+            left: 11vh;
+            border-radius: 10px;
+            background-color: #1a1818;
+          } @else if $i == 3 {
+            position: absolute;
+            width: 45vh;
+            height: 5.5vh;
+            top: 70.7vh;
+            left: 11vh;
+            border-radius: 10px;
+            background-color: #1a1818;
+          } @else if $i == 4 {
+            position: absolute;
+            width: 45vh;
+            height: 5.5vh;
+            top: 76.5vh;
+            left: 11vh;
+            border-radius: 10px;
+            background-color: #1a1818;
+          } @else if $i == 5 {
+            position: absolute;
+            width: 45vh;
+            height: 5.5vh;
+            top: 82.3vh;
+            left: 11vh;
+            border-radius: 10px;
+            background-color: #1a1818;
+          } @else if $i == 6 {
+            position: absolute;
+            width: 45vh;
+            height: 5.5vh;
+            top: 88.1vh;
+            left: 11vh;
+            border-radius: 10px;
+            background-color: #1a1818;
+          }
+    }
+
+    .hover-pos#{$i}:hover {
+       opacity: 50%;
+    }
+}

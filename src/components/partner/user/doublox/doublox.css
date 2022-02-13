@@ -1,0 +1,166 @@
+
+
+.pos_profil-doublox {
+    position: absolute;
+    top: 54.2vh;
+    left: 86vh;
+}
+
+.profil-doublox {
+    position: absolute;
+    width: 55vh;
+    height: 41vh;
+    background-color: rgb(30, 31, 34);
+    border-radius: 12px;
+}
+
+
+
+.banner_profil-doublox {
+    position: absolute;
+    width: 55vh;
+    height: 8.4vh;
+    top: -1.2vh;
+    background: #6B4259;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+
+.logo_contour-doublox {
+    position: absolute;
+    width: 10.4vh;
+    height: 10.4vh;
+    left: 2vh;
+    top: 1.2vh;
+    background-color: rgb(24, 25, 28);
+    border-radius: 10vh;
+}
+
+.banne_user-doublox {
+    position: absolute;
+    font-family: "font-navbar";
+    top: 12.5vh;
+    left: 1.8vh;
+    color: white;
+    font-size: 1.9vh;
+}
+
+.banner_input-doublox {
+    position: absolute;
+    border: none;
+    background-color: rgb(41, 43, 47);
+    top: 35.5vh;
+    width: 50.8vh;
+    height: 4vh;
+    left: 1.9vh;
+}
+
+.button_img-doublox {
+    position: absolute;
+    width: 3vh;
+    left: -1;
+    top: 3vh;
+}
+
+.button_img-doublox:hover {
+    opacity: 50%;
+    color: white;
+}
+
+
+.banner_button-doublox {
+    position: absolute;
+    background-color: transparent;
+    border: none;
+    top: 32.2vh;
+    width: 5.8vh;
+    height: 4vh;
+    left: 21.5vh;
+}
+
+.banner_user_2-doublox {
+    color: rgb(144, 145, 148);
+}
+
+
+.github-fond {
+    position: absolute;
+    top: 19.5vh;
+    width: 25vh;
+    height: 4.5vh;
+    left: 1.9vh;
+    border:1px solid rgb(49, 51, 55);
+    
+}
+
+.github-icon {
+    position: absolute;
+    top: 20.5vh;
+    left: 2.6vh;
+}
+
+.github-user {
+    position: absolute;
+    top: 19.42vh;
+    left: 6.5vh;
+    font-family: "font-navbar";
+    font-size: 1.55vh;
+    color: #bebebf;
+}
+
+.positions-spotify {
+    position: absolute;
+    top: 6vh;
+}
+
+.github-icon-verife {
+    position: absolute;
+    top: 21.18vh;
+    left: 13.2vh;
+    width: 1.8vh; 
+}
+
+.github-icon-redirect {
+    position: absolute;
+    top: 20.9vh;
+    left: 23.6vh;
+    width: 2vh;  
+}
+
+.github-icon-redirect:hover {
+    opacity: 50%;
+}
+
+.reseau-pos {
+    position: absolute;
+    top: 3.2vh;
+    left: 27vh;
+}
+
+.banner_separe-doublox {
+    position: absolute;
+    width: 50.8vh;
+    height: 0.1vh;
+    top: 17vh;
+    left: 1.8vh;
+    border-radius: 12px;
+    background-color: rgb(43, 44, 48);
+}
+
+.logo_profil-doublox {
+    position: absolute;
+    width: 9vh;
+    left: 2.7vh;
+    top: 2vh;
+    border-radius: 50%;
+}
+
+input::placeholder {
+    font-family: "font-navbar";
+    font-size: 1.2vh;
+}
+
+input:empty {
+    font-family: "font-navbar";
+    color: white;
+}

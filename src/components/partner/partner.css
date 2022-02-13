@@ -1,0 +1,92 @@
+
+
+.texte-partner {
+    position: absolute;
+    color: rgb(202, 199, 199);
+    font-family: "font-navbar";
+    left: 136vh;
+    top: 52vh;
+}
+
+/* .positions-partner {
+    position: absolute;
+    left: 1vh;
+} */
+
+@media only screen and (device-width : 414px) and (device-height : 816px) { 
+    .positions-partner {
+        position: absolute;
+        left: -85vh;
+        top: 100vh;
+    }
+
+    .pos_profil {
+        position: absolute;
+        left: 0vh;
+    }
+
+    .profil {
+        position: absolute;
+        width: 150vh;
+    }
+
+    .profil-doublox {
+        position: absolute;
+        left: 15vh;
+        top: -50vh;
+    }
+
+    .vsc-position {
+        position: absolute;
+        left: 167.5vh;
+        margin-top: -62.5vh;
+    }
+
+    .vsc-position2 {
+        position: absolute;
+        left: 101.5vh;
+        margin-top: -50.5vh;
+    }
+
+    .profil-dlav {
+        position: absolute;
+        left: 25vh;
+        top: -62.5vh;
+    }
+
+    .banner_profil{
+        position: absolute;
+        width: 150vh;
+    }
+
+    .paragraphe-salutation {
+        position: absolute;
+        white-space:nowrap;
+        left: 80vh;
+        top: 17vh;
+        font-size: 1.3vh;
+      }
+
+      .text3-salutation {
+          left: 148vh;
+          white-space:nowrap;
+      }
+
+      .title-salutation2 {
+          position: absolute;
+          left: 73vh;
+      }
+
+      .title-salutation {
+        position: absolute;
+        left: 73vh;
+    }
+
+      .paragraphe-salutation2 {
+        left: 80vh;
+        font-size: 1.3vh;
+        white-space:nowrap;
+      }
+
+  }
+  

@@ -1,0 +1,139 @@
+
+
+.pos_profil {
+    position: absolute;
+    top: 5vh;
+    left: 3vh;
+}
+
+.profil {
+    position: absolute;
+    width: 196.5vh;
+    height: 92vh;
+    background-color: rgb(24, 25, 28);
+    border-radius: 12px;
+}
+
+.banner_radius {
+    position: absolute;
+    top: -2vh;
+}
+
+.position-color {
+    position: absolute;
+    top: 56vh;
+    left: 55vh;
+}
+
+.information {
+    position: absolute;
+    width: 21.5vh;
+    height: 15vh;
+    top: 14vh;
+    left: 1.7vh;
+    background-color: rgb(43, 47, 49);
+    border-radius: 12px;
+}
+
+/* .banner_radius {
+  position: absolute; 
+  width: 100vh;
+  height: 2vh;
+  top: -0.7vh;
+  background-color: rgb(141, 10, 38);
+  border-radius: 14px;
+} */
+
+.banner_profil {
+    position: absolute;
+    width: 196.5vh;
+    height: 8.4vh;
+    background: #8D0A26;
+    /* border-radius: 14px; */
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+
+.logo_contour {
+    position: absolute;
+    width: 10.4vh;
+    height: 10.4vh;
+    left: 2vh;
+    top: 1.2vh;
+    background-color: rgb(24, 25, 28);
+    border-radius: 10vh;
+}
+
+.banne_user {
+    position: absolute;
+    font-family: "font-navbar";
+    top: 14vh;
+    left: 1.8vh;
+    color: white;
+    font-size: 1.9vh;
+}
+
+.banner_input {
+    position: absolute;
+    border: none;
+    background-color: rgb(41, 43, 47);
+    top: 34.5vh;
+    width: 25.8vh;
+    height: 4vh;
+    left: 1.9vh;
+}
+
+.button_img {
+    position: absolute;
+    width: 2vh;
+    left: 3.5vh;
+    top: 3.5vh;
+}
+
+.button_img:hover {
+    opacity: 50%;
+    color: white;
+}
+
+
+.banner_button {
+    position: absolute;
+    background-color: transparent;
+    border: none;
+    top: 32.2vh;
+    width: 5.8vh;
+    height: 4vh;
+    left: 21.5vh;
+}
+
+.banner_user_2 {
+    color: rgb(144, 145, 148);
+}
+
+.banner_separe {
+    position: absolute;
+    width: 25.8vh;
+    height: 0.1vh;
+    top: 18vh;
+    left: 1.8vh;
+    border-radius: 12px;
+    background-color: rgb(43, 44, 48);
+}
+
+.logo_profil {
+    position: absolute;
+    width: 9vh;
+    left: 2.7vh;
+    top: 2vh;
+    border-radius: 50%;
+}
+
+input::placeholder {
+    font-family: "font-navbar";
+    font-size: 1.2vh;
+}
+
+input:empty {
+    font-family: "font-navbar";
+    color: white;
+}

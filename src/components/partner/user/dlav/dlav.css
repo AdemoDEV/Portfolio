@@ -1,0 +1,136 @@
+
+
+.pos_profil-dlav {
+    position: absolute;
+    top: 14.5vh;
+    left: 142vh;
+}
+
+.profil-dlav {
+    position: absolute;
+    width: 55vh;
+    height: 41vh;
+    background-color: rgb(30, 31, 34);
+    border-radius: 12px;
+}
+
+/* .banner_radius-dlav {
+  position: absolute; 
+  width: 30vh;
+  height: 2vh;
+  top: -0.7vh;
+  background-color: rgb(160, 104, 19);
+  border-radius: 14px;
+} */
+
+.banner_profil-dlav {
+    position: absolute;
+    width: 55vh;
+    height: 8.4vh;
+    top: -1.2vh;
+    background: #370F30;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+
+.logo_contour-dlav {
+    position: absolute;
+    width: 10.4vh;
+    height: 10.4vh;
+    left: 2vh;
+    top: 1.2vh;
+    background-color: rgb(24, 25, 28);
+    border-radius: 10vh;
+}
+
+.banne_user-dlav {
+    position: absolute;
+    font-family: "font-navbar";
+    top: 12.5vh;
+    left: 1.8vh;
+    color: white;
+    font-size: 1.9vh;
+}
+
+.banner_input-dlav {
+    position: absolute;
+    border: none;
+    background-color: rgb(41, 43, 47);
+    top: 35.5vh;
+    width: 50.8vh;
+    height: 4vh;
+    left: 1.9vh;
+}
+
+.position-vsc-spo {
+    position: absolute;
+    top: 3.2vh;
+    left: 27vh;
+}
+
+.button_img-dlav {
+    position: absolute;
+    width: 3vh;
+    left: -1;
+    top: 3vh;
+}
+
+.button_img-dlav:hover {
+    opacity: 50%;
+    color: white;
+}
+
+
+.banner_button-dlav {
+    position: absolute;
+    background-color: transparent;
+    border: none;
+    top: 32.2vh;
+    width: 5.8vh;
+    height: 4vh;
+    left: 21.5vh;
+}
+
+.banner_user_2-dlav {
+    color: rgb(144, 145, 148);
+}
+
+.banner_separe-dlav {
+    position: absolute;
+    width: 50.8vh;
+    height: 0.1vh;
+    top: 17vh;
+    left: 1.8vh;
+    border-radius: 12px;
+    background-color: rgb(43, 44, 48);
+}
+
+.position-dlav-spotify {
+    position: absolute;
+    top: 6vh;
+}
+
+.github-icon-verife-2 {
+    position: absolute;
+    top: 21.14vh;
+    left: 16.2vh;
+    width: 1.8vh; 
+}
+
+.logo_profil-dlav {
+    position: absolute;
+    width: 9vh;
+    left: 2.7vh;
+    top: 2vh;
+    border-radius: 50%;
+}
+
+input::placeholder {
+    font-family: "font-navbar";
+    font-size: 1.2vh;
+}
+
+input:empty {
+    font-family: "font-navbar";
+    color: white;
+}

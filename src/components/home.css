@@ -1,0 +1,92 @@
+
+.text3-salutation {
+    position: absolute;
+    top: 4vh;
+    font-size: 3vh;
+    left: 161vh;
+    color: white;
+    font-family: "font-perso1";
+  }
+  
+  .title-salutation {
+    position: absolute;
+    color: rgb(255, 255, 255);
+    font-size: 2.5vh;
+    top: 11vh;
+    left: 37vh;
+    font-family: "font-perso1";
+  }
+  
+  .title-salutation2 {
+    position: absolute;
+    color: rgb(255, 255, 255);
+    font-size: 2.5vh;
+    top: 26vh;
+    left: 37vh;
+    font-family: "font-perso1";
+  }
+  
+  .text4-salutation {
+    position: absolute;
+    font-size: 3vh;
+    left: 9vh;
+    color: white;
+    font-family: "font-navbar";
+  }
+  
+  .postion-fond {
+    position: absolute;
+    top: 19.5vh;
+    width: 25vh;
+    height: 4.5vh;
+    left: 1.9vh;
+    border:1px solid rgb(59, 65, 58);
+  }
+  
+  .github-icon-verife-3 {
+      position: absolute;
+      top: 21.12vh;
+      left: 15.2vh;
+      width: 1.8vh; 
+  }
+
+
+  
+  .github-icon-verife-4 {
+    position: absolute;
+    top: 21.10vh;
+    left: 14.2vh;
+    width: 1.8vh; 
+  }
+  
+  .positions-myInfo2 {
+    position: absolute;
+    top: 19vh;
+    left: 65vh;
+  }
+  
+  .positions-myInfo {
+    position: absolute;
+    top: 19vh;
+    left: 35vh;
+  }
+  
+  .paragraphe-salutation {
+    position: absolute;
+    top: 15vh;
+    left: 39vh;
+    text-justify: auto;
+    color: rgb(209, 208, 208);
+    font-size: 1.5vh;
+    font-family: "font-perso1";
+  }
+  
+  .paragraphe-salutation2 {
+    position: absolute;
+    top: 31vh;
+    left: 39vh;
+    text-justify: auto;
+    color: rgb(209, 208, 208);
+    font-size: 1.5vh;
+    font-family: "font-perso1";
+  }

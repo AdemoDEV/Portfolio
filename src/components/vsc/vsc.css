@@ -1,0 +1,150 @@
+
+.vsc-position {
+    position: absolute;
+    right: 60.7vh;
+    top: 14.5vh;
+}
+
+.vsc-pnl-logo {
+    position: absolute;
+    width: 7vh;
+    top: 22vh;
+    left: 1.8vh;
+}
+
+
+.vsc-pnl-logo:hover {
+    opacity: 50%;
+}
+
+.vsc-title {
+    position: absolute;
+    white-space: nowrap;
+    font-size: 1.5vh;
+    top: 20.3vh;
+    left: 10vh;
+    color: #DCDDDE;
+    font-family: "font-navbar";
+}
+
+
+.vsc-dsc {
+    position: absolute;
+    white-space:nowrap;
+    font-size: 1.3vh;
+    top: 23.2vh;
+    left: 10vh;
+    font-family: "font-navbar";
+    color: #DCDDDE;
+}
+
+.vsc-dsc-title {
+    position: absolute;
+    white-space:nowrap;
+    font-size: 1.3vh;
+    top: 25vh;
+    left: 10vh;
+    font-family: "font-navbar";
+    color: #DCDDDE;
+}
+
+.vsc-all {
+    position: absolute;
+    top: -0.7vh;
+}
+
+.reposite {
+    position: absolute;
+    white-space:nowrap;
+    font-size: 1.3vh;
+    top: 30.8vh;
+    left: 1.85vh;
+    font-family: "font-navbar";
+    width: 25vh;
+    height: 3.5vh;
+    border-radius: 3px;
+    background-color: #4F545C; 
+}
+
+.reposite-text {
+    position: absolute;
+    white-space: nowrap;
+    color: white;
+    font-size: 1.4vh;
+    top: 30.2vh;
+    left: 9vh;
+    font-family: "font-navbar";
+}
+
+.reposite:hover {
+    opacity: 50%;
+}
+
+.vsc-time {
+    position: absolute;
+    white-space:nowrap;
+    font-size: 1.3vh;
+    top: 26.5vh;
+    left: 10vh;
+    font-family: "font-navbar";
+    color: #DCDDDE; 
+}
+
+.vsc-play-pause {
+    position: absolute;
+    width: 25.8vh;
+    height: 0.5vh;
+    top: 30vh;
+    left: 1.8vh;
+    background-color: rgb(53, 46, 46);
+    border-radius: 10px;
+
+}
+
+ .vsc-play-pause-1 {
+    position: absolute;
+    width: 15.8vh;
+    height: 0.5vh;
+    top: 30vh;
+    left: 1.8vh;
+    background-color: #ffffff;
+    border-radius: 10px;
+} 
+
+.vsc-hourse {
+    white-space:nowrap;
+    position: absolute;
+    font-family: "font-navbar";
+    font-size: 1.1vh;
+    top: 31vh;
+    left: 1.8vh;
+    color: #ffffff;
+}
+
+.vsc-hourse-1 {
+    white-space:nowrap;
+    position: absolute;
+    font-family: "font-navbar";
+    font-size: 1.1vh;
+    top: 31vh;
+    left: 25vh;
+    color: #ffffff;
+}
+
+
+.vsc-play {
+    display: inline;
+    white-space: nowrap;
+    font-family: "font-navbar";
+    position: absolute;
+    top: 17.4vh;
+    left: 1.8vh;
+    font-size: 1.4vh;
+    color: #B9BBBE;
+}
+
+.vsc-position2 {
+    position: absolute;
+    top: 54vh;
+    right: 116.5vh;
+}
